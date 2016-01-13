@@ -1,0 +1,7 @@
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\bin\Debug\StringCalculator.dll
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\UnitTestProject1\bin\Debug\StringCalculator.pdb

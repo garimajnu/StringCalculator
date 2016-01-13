@@ -1,0 +1,5 @@
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\MyTestConsole\bin\Debug\MyTestConsole.exe.config
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\MyTestConsole\bin\Debug\MyTestConsole.exe
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\MyTestConsole\bin\Debug\MyTestConsole.pdb
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\MyTestConsole\obj\Debug\MyTestConsole.exe
+c:\users\garima.bhatia\documents\visual studio 2013\Projects\StringCalculator\MyTestConsole\obj\Debug\MyTestConsole.pdb
